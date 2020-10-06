@@ -1,0 +1,16 @@
+from part import *
+from material import *
+from section import *
+from assembly import *
+from step import *
+from interaction import *
+from load import *
+from mesh import *
+from optimization import *
+from job import *
+from sketch import *
+from visualization import *
+from connectorBehavior import *
+mdb.models['D_TAYLOR'].parts['Part-1'].regenerate()
+del mdb.models['D_TAYLOR']
+# Save by vlederer on 2019_05_09-16.14.34; build 6.13-1 2013_05_16-01.56.28 126354
