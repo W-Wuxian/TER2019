@@ -1,6 +1,8 @@
 # TER 2019
-Projet de deuxième année à l'enseirb-matmeca.
+[Projet](./2019TER_V4.pdf) de deuxième année à l'enseirb-matmeca.
+
 Contributeurs: Y.Tomita, T.Dixonne, B.Denefle, J.Garciameir, V.Lederer
+
 Tuteurs: E.Martin et K.Santugini
 
 ## Sujet
